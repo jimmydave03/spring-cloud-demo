@@ -1,6 +1,6 @@
 # spring-cloud-demo
 
-**Demo is still in development so sorry for lack of documentation."
+**Demo is still in development so sorry for lack of documentation.**
 
 This demo gives all the information regarding how Spring cloud works. 
 
